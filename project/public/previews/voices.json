@@ -1,0 +1,14 @@
+{
+  "ar-EG-SalmaNeural": {
+    "url": "https://example.com/previews/ar-EG-SalmaNeural.mp3",
+    "text": "مرحباً، هذا مثال على صوتي"
+  },
+  "ar-EG-ShakirNeural": {
+    "url": "https://example.com/previews/ar-EG-ShakirNeural.mp3",
+    "text": "مرحباً، هذا مثال على صوتي"
+  },
+  "bg-BG-KalinaNeural": {
+    "url": "https://example.com/previews/bg-BG-KalinaNeural.mp3",
+    "text": "Здравейте, това е пример за моя глас"
+  }
+}
